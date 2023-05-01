@@ -1,0 +1,10 @@
+UN:Administrator
+PWD:v$Jc3u4y3vK.v?MscmqgIJY(P7j)Pxwv
+
+
+sudo su -
+yum update
+y
+yum install httpd
+systemctl status httpd
+systemctl start httpd
